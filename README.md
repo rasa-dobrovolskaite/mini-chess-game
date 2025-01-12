@@ -37,4 +37,4 @@ To install the project, follow these steps:
 
 5. Once user enters all pieces, the program will print out the final board which highlights in red all the black pieces, if there are any, that white piece can capture.
 
-Note: As chess figure symbols are displayed using Unicode characters, the display of the figures can vary depending on your terminal theme colors (For example, dark themes may show black pieces as white). To have the most accurate display, using light theme is recommended. </p># DA.PY.1.6
+Note: As chess figure symbols are displayed using Unicode characters, the display of the figures can vary depending on your terminal theme colors (For example, dark themes may show black pieces as white). To have the most accurate display, using light theme is recommended. </p>
